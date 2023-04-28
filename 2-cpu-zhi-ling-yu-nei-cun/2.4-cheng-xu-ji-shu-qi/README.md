@@ -27,7 +27,7 @@ pub struct Cpu {
      }
 ```
 
-这是上述的 CPU 周期的实现：\\
+这是上述的 CPU 周期的实现：
 
 ```rust
 impl Cpu {
