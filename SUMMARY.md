@@ -10,4 +10,3 @@
     * [2.4.1 实现内存映射](2-cpu-zhi-ling-yu-nei-cun/2.5-playstation-nei-cun-ying-she/2.5.1-shi-xian-nei-cun-ying-she.md)
   * [2.5 BIOS](2-cpu-zhi-ling-yu-nei-cun/2.6-bios-ji-ben-shu-ru-shu-chu-xi-tong.md)
   * [2.6 加载BIOS](2-cpu-zhi-ling-yu-nei-cun/2.6-jia-zai-bios.md)
-* [汉英术语对照表](han-ying-shu-yu-dui-zhao-biao.md)
